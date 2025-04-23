@@ -3096,7 +3096,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "Paragon_KR65_White",
+                            "ClassName": "Paragon_KR65_Black",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -3277,7 +3277,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "Paragon_XR80_White",
+                            "ClassName": "Paragon_XR80_Black",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
